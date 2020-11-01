@@ -1,0 +1,13 @@
+ul{position:relative;margin:0;padding:0;position:relative}
+li{position: relative;width:285px;height:200px;list-style-type:none;float:left;margin:2px;background: #ccc;}
+/* ul li  {
+    border: 1px solid rgb(141, 20, 87)104, 102, 102);
+} */
+ul{
+    display: inline-block;  
+    
+}
+img{}
+li:hover span{width:150px;height:150px;background-color:blue; z-index: 2;}
+
+        
